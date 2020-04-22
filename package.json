@@ -1,0 +1,24 @@
+{
+  "name": "uningjs",
+  "version": "0.1.13",
+  "description": "API para obtener articulos de la pagina oficial de la UNI Nicaragua",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "UNI Nicaragua",
+    "uni.edu.ni",
+    "UNI API",
+    "UNI-RUACS",
+    "Uni ruacs",
+    "Articulos UNI"
+  ],
+  "author": "Jackson Blandon",
+  "author_email": "secmare@protonmail.com",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "axios": "^0.19.2"
+  }
+}
