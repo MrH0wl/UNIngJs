@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://uni.edu.ni"><img src="https://uni.edu.ni/assets/images/logouni12.png" alt="UNI" width="200"></a>
+  <a href="https://uni.edu.ni"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Logo_UNI_%281%29.png" alt="UNI" width="200"></a>
   <br>
   UNIngJs
   <br>
@@ -11,8 +11,8 @@
 
 <p align="center">
   <a href="https://github.com/MrH0wl/UNIngJs"><img src="https://img.shields.io/badge/repo-github-brightgreen" alt="travis"></a>
-  <a href="https://www.npmjs.com/package/uningjs"><img src="https://img.shields.io/npm/v/uninjs.svg" alt="npm version"></a>
-  <a href="https://www.npmjs.com/package/uningjs"><img src="https://img.shields.io/npm/dm/uningjs.svg" alt="npm downloads"></a>
+  <a href="https://www.npmjs.com/package/uningjs"><img src="https://img.shields.io/npm/v/uningjs" alt="npm version"></a>
+  <a href="https://www.npmjs.com/package/uningjs"><img src="https://img.shields.io/npm/dm/uningjs" alt="npm downloads"></a>
   <a href="https://standardjs.com"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="Standard - JavaScript Style Guide"></a>
   <a href="https://www.twitter.com/SecMare"><img src="https://img.shields.io/twitter/follow/SecMare?label=Contacto&style=social"></a>
 </p>

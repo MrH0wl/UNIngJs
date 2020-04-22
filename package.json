@@ -1,6 +1,6 @@
 {
   "name": "uningjs",
-  "version": "0.1.13",
+  "version": "0.1.22",
   "description": "API para obtener articulos de la pagina oficial de la UNI Nicaragua",
   "main": "index.js",
   "scripts": {
