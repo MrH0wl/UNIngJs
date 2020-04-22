@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://uni.edu.ni"><img src="https://uni.edu.ni/assets/images/logouni12.png" alt="WebTorrent" width="200"></a>
+  <a href="https://uni.edu.ni"><img src="https://uni.edu.ni/assets/images/logouni12.png" alt="UNI" width="200"></a>
   <br>
   UNIngJs
   <br>
