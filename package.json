@@ -16,6 +16,7 @@
   ],
   "author": "Jackson Blandon",
   "author_email": "secmare@protonmail.com",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/"},
   "license": "GPL-3.0",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
